@@ -1,0 +1,11 @@
+langchain
+langchain-text-splitters
+chromadb
+sentence-transformers
+ollama
+ragas
+rouge-score
+nltk
+scikit-learn
+pandas
+numpy
